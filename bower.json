@@ -1,0 +1,17 @@
+{
+  "name": "k10r-webfonts",
+  "version": "1.0.0",
+  "homepage": "https://github.com/k10r/webfonts",
+  "authors": [
+    "Siegmund Mioduszewski <mio@kellerkinder.de>"
+  ],
+  "description": "Webfonts used by k10r",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
